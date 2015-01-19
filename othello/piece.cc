@@ -1,5 +1,6 @@
 //#include "piece.h"
 
+//TEST
 #include <iostream>
 #include <cmath>
 #include <string>
